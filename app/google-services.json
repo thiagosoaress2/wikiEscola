@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "402203693621",
+    "firebase_url": "https://wikescola.firebaseio.com",
+    "project_id": "wikescola",
+    "storage_bucket": "wikescola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402203693621:android:116691511f7adfc8",
+        "android_client_info": {
+          "package_name": "com.wikescola.android.wikescola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402203693621-dp9j07bj9aiqgk5mflvjh2tstmlk835f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wikescola.android.wikescola",
+            "certificate_hash": "82b7ac1176e7642f584e9bf1cb5090449b877962"
+          }
+        },
+        {
+          "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQlZEBimP3P4Qj9yDS_L68C4dWB9Es_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402203693621:android:16ea314252298cf7ef977c",
+        "android_client_info": {
+          "package_name": "com.wikiEscolawiki.wikiescola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQlZEBimP3P4Qj9yDS_L68C4dWB9Es_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402203693621:android:44cd3a455ff50732",
+        "android_client_info": {
+          "package_name": "com.wikiescola2.android.wikieescola2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402203693621-4n2pvutpjs0drfrbri0lj5v4euipb14e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wikiescola2.android.wikieescola2",
+            "certificate_hash": "82b7ac1176e7642f584e9bf1cb5090449b877962"
+          }
+        },
+        {
+          "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQlZEBimP3P4Qj9yDS_L68C4dWB9Es_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402203693621-7vsobb2jlqtqqutsk7d66v1ft0uglkum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
